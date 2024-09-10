@@ -9,3 +9,4 @@ Song, Dongli; Jegatheesan, Priya; DeSandre, Glenn; Govindaswami, Balaji (2016). 
 Umbilical cord clamping is a routine procedure performed immediately after childbirth. The timing of cord clamping has been a subject of debate in recent years, with potential implications for neonatal health outcomes.
 
 **Overview**
+To analyze the relationship between the timing of umbilical cord clamping and neonatal survival outcomes using a combination of traditional statistical methods and machine learning techniques.
