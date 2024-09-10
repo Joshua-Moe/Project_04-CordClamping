@@ -11,3 +11,7 @@ Umbilical cord clamping is a routine procedure performed immediately after child
 **Overview**
 To analyze the relationship between the timing of umbilical cord clamping and neonatal survival outcomes using a combination of traditional statistical methods and machine learning techniques.
 ![image](https://github.com/user-attachments/assets/2b407d3d-2579-4ea0-afe1-fb934609a367)
+
+**Data We Sorted**
+![image](https://github.com/user-attachments/assets/0f52c233-b6dd-450a-9d5d-fdf2954a4da4)
+
