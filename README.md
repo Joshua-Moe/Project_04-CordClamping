@@ -15,3 +15,20 @@ To analyze the relationship between the timing of umbilical cord clamping and ne
 **Data We Sorted**
 ![image](https://github.com/user-attachments/assets/0f52c233-b6dd-450a-9d5d-fdf2954a4da4)
 
+<img width="993" alt="Screenshot 2024-09-10 at 7 52 14 PM" src="https://github.com/user-attachments/assets/9bc514fd-f7df-465d-a0f7-5df429f156b6">
+
+<img width="710" alt="Screenshot 2024-09-10 at 7 53 25 PM" src="https://github.com/user-attachments/assets/c1a30e04-7870-428c-b309-c1def5f3b3b1">
+
+<img width="1091" alt="Screenshot 2024-09-10 at 7 55 20 PM" src="https://github.com/user-attachments/assets/478911b1-3606-4827-92ea-8125e074d8c3">
+
+<img width="1091" alt="Screenshot 2024-09-10 at 7 55 37 PM" src="https://github.com/user-attachments/assets/eb86f5fc-c964-4d97-8a13-dbd03ceb8af3">
+
+<img width="1084" alt="Screenshot 2024-09-10 at 7 55 56 PM" src="https://github.com/user-attachments/assets/ee3da55c-37a1-446d-b72d-432fa3a63912">
+
+<img width="758" alt="Screenshot 2024-09-10 at 7 56 19 PM" src="https://github.com/user-attachments/assets/2c1ada43-d176-4d7d-bfbc-ca2513932c90">
+
+<img width="1018" alt="Screenshot 2024-09-10 at 7 56 30 PM" src="https://github.com/user-attachments/assets/eea2ae11-bd48-42d0-a436-0cc2d29bc448">
+
+<img width="1024" alt="Screenshot 2024-09-10 at 7 56 36 PM" src="https://github.com/user-attachments/assets/f67afc51-4824-4470-8644-947ce5c24900">
+
+
