@@ -20,6 +20,7 @@ To analyze the relationship between the timing of umbilical cord clamping and ne
 **Ran code to see what should our target feature be**
 <img width="710" alt="Screenshot 2024-09-10 at 7 53 25 PM" src="https://github.com/user-attachments/assets/c1a30e04-7870-428c-b309-c1def5f3b3b1">
 **Found Target feature so we dropped the respective columns and rows**
+
 <img width="1091" alt="Screenshot 2024-09-10 at 7 55 20 PM" src="https://github.com/user-attachments/assets/478911b1-3606-4827-92ea-8125e074d8c3">
 **Ran a model to check the accuracy of our regression model**
 <img width="1091" alt="Screenshot 2024-09-10 at 7 55 37 PM" src="https://github.com/user-attachments/assets/eb86f5fc-c964-4d97-8a13-dbd03ceb8af3">
